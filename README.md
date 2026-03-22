@@ -1,4 +1,4 @@
-# AI 昵称生成器
+# NameSpark（AI 昵称生成器）
 
 一个使用 `HTML + CSS + JavaScript + Node.js + Express` 实现的单页面网页应用。
 
