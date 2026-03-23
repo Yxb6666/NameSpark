@@ -26,8 +26,8 @@ npm install
 1. 复制 `.env.example` 为 `.env`
 2. 填入你的智谱 API Key
 
-```env
-ZAI_API_KEY=your_bigmodel_api_key_here
+```cmd
+setx ZAI_API_KEY "你的新key"
 ```
 
 ## 启动项目
